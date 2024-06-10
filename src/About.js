@@ -4,6 +4,7 @@
 import React from 'react';
 import { FaEnvelope, FaLinkedin } from 'react-icons/fa';
 import './App.css';
+
 function About() {
     return (
       <div className="text">

@@ -11,8 +11,11 @@ function App() {
         <img src={image} className="banner-image" alt="banner" />
         </div>
       </header>
+      <div className='body-content'>
       <About/>
       <SocialMediaIcons/>
+      </div>
+      
     </div>
   );
 }
