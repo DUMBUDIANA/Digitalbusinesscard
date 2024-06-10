@@ -20,12 +20,11 @@ function About() {
         <FaEnvelope size={30} /> <a className='emailtext'>Email</a>
       </a>
       </p>
-      <p>
-
-      </p>
-      <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className='two'>
+      <p className='two'>
+      <a href="#" target="_blank" rel="noopener noreferrer" className=''>
         <FaLinkedin size={30} />
        <a className='linkedintext'>LinkedIn</a> </a>
+       </p>
        </div>
        <div className='about'>
         <h2>
